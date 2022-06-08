@@ -52,4 +52,4 @@ brownie run deploy/deploy_and_run.py
 
 ## Contact
 
-Your Name - [@FranFran_E](https://twitter.com/FranFran_E)
+Egboluche Francis - [@FranFran_E](https://twitter.com/FranFran_E)
